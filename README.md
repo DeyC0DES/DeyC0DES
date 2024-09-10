@@ -32,8 +32,8 @@ pois aprender nunca é demais!!
 
 <div align="center">
   <a href="https://github.com/DeyC0DES">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyC0DES&show_icons=true&bg_color=000&title_color=FF0085&text_color=FF00F6&border_color=FF0085&icon_color=BB0C81&border_radius=7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyC0DES&layout=compact&card_width=250&line_height=1&bg_color=000&title_color=FF0085&text_color=FF00F6&border_color=FF0085">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyC0DES&show_icons=true&bg_color=000&title_color=FF0085&text_color=FF00F6&border_color=FF0085&icon_color=FFF&border_radius=7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyC0DES&layout=compact&card_width=130&line_height=1&bg_color=000&title_color=FF0085&text_color=FF00F6&border_color=FF0085">
 </div>
     
 #
