@@ -13,6 +13,8 @@ pois aprender nunca é demais!!
 
 #
 
+<img align="right" height="190" src="https://github.com/user-attachments/assets/f9bc882f-b88e-4f9d-8e1a-3d4aba82394a"  />
+
 <h3 align="left">Contacts!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=7040AD&color:FFF)](mailto:codes.dey@gmail.om)
@@ -62,7 +64,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/)
 
-
+![study-anime](https://github.com/user-attachments/assets/f9bc882f-b88e-4f9d-8e1a-3d4aba82394a)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dey-JAVA" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
