@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Sup+im+Dey!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7040AD&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Sup+im+Dey!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+
+![card](https://github.com/user-attachments/assets/0ef25b07-dae2-4f51-82dc-188875165321)
 
 #
 
@@ -13,8 +15,8 @@ pois aprender nunca é demais!!
 
 <h3 align="left">Contacts!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:codes.dey@gmail.om)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/dey.codes/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=7040AD&color:FFF)](mailto:codes.dey@gmail.om)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=7040AD&color:FFF)](https://www.instagram.com/dey.codes/)
 
 <h3 align="left">Stacks ~</h3>
 
@@ -32,8 +34,8 @@ pois aprender nunca é demais!!
 
 <div align="center">
   <a href="https://github.com/DeyC0DES">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyC0DES&show_icons=true&bg_color=000&title_color=FF0085&text_color=FF00F6&border_color=FF0085&icon_color=FFF&border_radius=7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyC0DES&layout=compact&card_width=130&line_height=1&bg_color=000&title_color=FF0085&text_color=FF00F6&border_color=FF0085">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyC0DES&show_icons=true&bg_color=000&title_color=D7B8FF&text_color=7040AD&border_color=D7B8FF&icon_color=FFF&border_radius=7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyC0DES&layout=compact&card_width=130&line_height=1&bg_color=000&title_color=D7B8FF&text_color=7040AD&border_color=D7B8FF">
 </div>
     
 #
