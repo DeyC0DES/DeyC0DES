@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Atualmente estudando ADS (Analise e Desenvolvimento de Sistemas) na Gran Facudade. Minha linguagem principal é Java, uso do framework Springboot para fazer API. Sempre estou buscando algo novo
+<p align="center">Atualmente estudando ADS (Analise e Desenvolvimento de Sistemas) na Gran Facudade. Minha linguagem principal é Java, uso do framework Springboot para fazer API, Micro Serviços e mais. Sempre estou buscando algo novo
 pois aprender nunca é demais!!
 
 #
