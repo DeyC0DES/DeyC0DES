@@ -4,18 +4,17 @@
   </a>
 </div>
 
-![card](https://github.com/user-attachments/assets/0ef25b07-dae2-4f51-82dc-188875165321)
+![card](https://github.com/user-attachments/assets/24fce313-d0ed-44d3-996b-b4bf020aa57f)
 
 #
 
-<p align="center">Atualmente estudando ADS (Analise e Desenvolvimento de Sistemas) na Gran Facudade. Minha linguagem principal é Java, uso do framework Springboot para fazer API, Micro Serviços e mais. Sempre estou buscando algo novo
-pois aprender nunca é demais!!
+<p align="center">Back-end Developer (Java & Python), focused on creating APIs and applications aimed at automation and optimizing day-to-day processes. Learn is never too much
 
 #
 
 <img align="right" height="190" src="https://github.com/user-attachments/assets/f9bc882f-b88e-4f9d-8e1a-3d4aba82394a"  />
 
-<h3 align="left">Contacts!</h3>
+<h3 align="left">Contacts</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=7040AD&color:FFF)](mailto:codes.dey@gmail.om)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=7040AD&color:FFF)](https://www.instagram.com/dey.codes/)
